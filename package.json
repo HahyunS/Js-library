@@ -1,0 +1,21 @@
+{
+  "name": "js-libraries",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "your name here",
+  "license": "private",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.6.0",
+    "aos": "^2.3.4",
+    "choreographer-js": "^1.1.0",
+    "leaflet": "^1.9.4"
+  }
+}
